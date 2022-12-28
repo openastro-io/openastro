@@ -1,0 +1,5 @@
+# openastro.io
+
+Just a stub so far, for in the future maybe an open source astrology toolchain / stack...
+
+Website: https://openastro.io
